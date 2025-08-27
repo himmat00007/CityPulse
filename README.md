@@ -15,6 +15,7 @@ A React Native application for discovering and managing events in your city with
 - **Multi-language Support**: RTL layout implementation with language switching throughout the app
 - **User Profile**: User Can View Profile Page
 - **Session Persistence**: User sessions remain active when the app is closed and reopened
+- **Splash Screen**: Splash Screen handled natively by react-native-bootsplash
 
 ## Prerequisites
 
