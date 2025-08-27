@@ -1,0 +1,101 @@
+{
+  "common": {
+    "home": "Home",
+    "favorites": "Favorites",
+    "profile": "Profile",
+    "events": "Events",
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "error": "Error",
+    "success": "Success",
+    "loading": "Loading...",
+    "retry": "Retry",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "search": "Search",
+    "disable": "Disable"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "signUp": "Sign Up",
+    "login": "Login",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "pleaseSignIn": "Please sign in",
+    "signInRequired": "You need to be signed in to save favorites.",
+    "emailPasswordRequired": "Email and password required",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "nameRequired": "Name is required",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordTooShort": "Password must be at least 6 characters",
+    "passwordRequirements": "Password must contain at least one letter and one number",
+    "nameTooShort": "Name must be at least 2 characters",
+    "nameTooLong": "Name must be less than 50 characters",
+    "invalidName": "Name can only contain letters, spaces, hyphens, and apostrophes",
+    "loginFailed": "Login failed",
+    "signupFailed": "Signup failed",
+    "authenticationFailed": "Authentication Failed"
+  },
+  "events": {
+    "eventDetails": "Event Details",
+    "buyTickets": "Buy Tickets",
+    "artistInfo": "Artist Info",
+    "venue": "Venue",
+    "genre": "Genre",
+    "openFullMap": "Open Full Map",
+    "venueMap": "Venue Map",
+    "mapPreviewComingSoon": "Map preview coming soon...",
+    "noLocationData": "No location data available.",
+    "noEventsFound": "No events found",
+    "searchEvents": "Search events...",
+    "nearbyEvents": "Nearby Events"
+  },
+  "favorites": {
+    "myFavorites": "My Favorites",
+    "addedToFavorites": "Added to favorites",
+    "removedFromFavorites": "Removed from favorites",
+    "eventAddedToFavorites": "Event has been added to your favorites.",
+    "eventRemovedFromFavorites": "Event has been removed from your favorites.",
+    "failedToUpdateFavorites": "Failed to update favorites. Please try again.",
+    "noFavorites": "No favorite events yet",
+    "noFavoritesDescription": "Start exploring events and add them to your favorites!",
+    "pleaseSignInFavorites": "Please sign in to view your favorites.",
+    "at": "at"
+  },
+  "profile": {
+    "settings": "Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "aboutApp": "About App",
+    "contactSupport": "Contact Support",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "selectLanguage": "Select Language",
+    "languageChanged": "Language changed successfully"
+  },
+  "location": {
+    "nearYou": "Near You",
+    "currentLocation": "Current Location",
+    "searchLocation": "Search location...",
+    "locationPermission": "Location Permission",
+    "locationPermissionRequired": "Location permission is required to show nearby events."
+  },
+  "settings": {
+    "authenticationSuccessful": "Authentication Successful",
+    "authenticationFailed": "Authentication Failed"
+  }
+}

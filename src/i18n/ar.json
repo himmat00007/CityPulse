@@ -1,0 +1,101 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "favorites": "المفضلة",
+    "profile": "الملف الشخصي",
+    "events": "الفعاليات",
+    "back": "رجوع",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "error": "خطأ",
+    "success": "نجح",
+    "loading": "جاري التحميل...",
+    "retry": "إعادة المحاولة",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "close": "إغلاق",
+    "search": "بحث",
+    "disable": "تعطيل"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signOut": "تسجيل الخروج",
+    "signUp": "إنشاء حساب",
+    "login": "تسجيل الدخول",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "createAccount": "إنشاء حساب",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "pleaseSignIn": "يرجى تسجيل الدخول",
+    "signInRequired": "تحتاج إلى تسجيل الدخول لحفظ المفضلة.",
+    "emailPasswordRequired": "البريد الإلكتروني وكلمة المرور مطلوبان",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "nameRequired": "الاسم مطلوب",
+    "invalidEmail": "يرجى إدخال عنوان بريد إلكتروني صحيح",
+    "passwordTooShort": "كلمة المرور يجب أن تكون على الأقل 6 أحرف",
+    "passwordRequirements": "كلمة المرور يجب أن تحتوي على حرف واحد على الأقل ورقم واحد",
+    "nameTooShort": "الاسم يجب أن يكون على الأقل حرفين",
+    "nameTooLong": "الاسم يجب أن يكون أقل من 50 حرف",
+    "invalidName": "الاسم يمكن أن يحتوي فقط على أحرف ومسافات وشرطات وفواصل عليا",
+    "loginFailed": "فشل تسجيل الدخول",
+    "signupFailed": "فشل إنشاء الحساب",
+    "authenticationFailed": "فشل في المصادقة"
+  },
+  "events": {
+    "eventDetails": "تفاصيل الفعالية",
+    "buyTickets": "شراء التذاكر",
+    "artistInfo": "معلومات الفنان",
+    "venue": "المكان",
+    "genre": "النوع",
+    "openFullMap": "فتح الخريطة كاملة",
+    "venueMap": "خريطة المكان",
+    "mapPreviewComingSoon": "معاينة الخريطة قريباً...",
+    "noLocationData": "لا توجد بيانات موقع متاحة.",
+    "noEventsFound": "لم يتم العثور على فعاليات",
+    "searchEvents": "البحث عن فعاليات...",
+    "nearbyEvents": "الفعاليات القريبة"
+  },
+  "favorites": {
+    "myFavorites": "المفضلة",
+    "addedToFavorites": "تم الإضافة للمفضلة",
+    "removedFromFavorites": "تم الحذف من المفضلة",
+    "eventAddedToFavorites": "تم إضافة الحدث لقائمة المفضلة.",
+    "eventRemovedFromFavorites": "تم حذف الحدث من قائمة المفضلة.",
+    "failedToUpdateFavorites": "فشل في تحديث المفضلة. حاول مرة أخرى.",
+    "noFavorites": "لا توجد أحداث مفضلة بعد",
+    "noFavoritesDescription": "ابدأ باستكشاف الأحداث وأضفها لقائمة المفضلة!",
+    "pleaseSignInFavorites": "يرجى تسجيل الدخول لعرض المفضلة.",
+    "at": "في"
+  },
+  "profile": {
+    "settings": "الإعدادات",
+    "language": "اللغة",
+    "notifications": "الإشعارات",
+    "aboutApp": "حول التطبيق",
+    "contactSupport": "اتصل بالدعم",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "selectLanguage": "اختر اللغة",
+    "languageChanged": "تم تغيير اللغة بنجاح"
+  },
+  "location": {
+    "nearYou": "بالقرب منك",
+    "currentLocation": "الموقع الحالي",
+    "searchLocation": "البحث عن موقع...",
+    "locationPermission": "إذن الموقع",
+    "locationPermissionRequired": "إذن الموقع مطلوب لإظهار الفعاليات القريبة."
+  },
+  "settings": {
+    "authenticationSuccessful": "نجحت المصادقة",
+    "authenticationFailed": "فشلت المصادقة"
+  }
+}
