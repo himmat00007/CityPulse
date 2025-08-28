@@ -5,6 +5,8 @@ A React Native application for discovering and managing events in your city with
 ## Demo Video
 
 [Watch the demo video](https://drive.google.com/file/d/1SRK4K740A93YlXUKbxOAvoqIL7rvl1_s/view?usp=sharing)
+[Download Anroid App](https://drive.google.com/file/d/1QG74XGQG9YxETy2ckubcyrNEoQrIvioh/view?usp=sharing)
+
 
 ## Features
 
